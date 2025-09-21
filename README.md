@@ -20,3 +20,7 @@ Juego web simple para agregar nombres y seleccionar aleatoriamente un "amigo sec
 
 ## Publicación
 Publicar con GitHub Pages desde la rama `main` o carpeta `docs`.
+
+## 🚀 Demo en vivo
+Puedes probar la aplicación aquí:  
+👉 [Amigo Secreto en GitHub Pages](https://TU_USUARIO.github.io/amigo-secreto/)
